@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastián Muriel</h1>
 <h3 align="center">👨‍💻 About Me: Frontend developer passionate about creating intuitive and engaging user experiences. Focused on modern technologies to build fast and efficient applications. 💼 Technologies I've Worked With: Frontend: HTML5, CSS3, JavaScript (ES6+) React Vite Backend: Node.js Express Databases: SQL 🎯 Goals: Continuously improve my skills in frontend development. Collaborate on innovative projects that present new challenges. Create solutions that enhance user experience and application performance.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/sebastian-muriel-b12b75325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sebastian-muriel-b12b75325" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
